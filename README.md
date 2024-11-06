@@ -1,0 +1,14 @@
+# comet-user 15 AP3A.241105.008 12485168 release-keys
+- manufacturer: google
+- platform: zumapro
+- codename: comet
+- flavor: comet-user
+- release: 15
+- id: AP3A.241105.008
+- incremental: 12485168
+- tags: release-keys
+- fingerprint: google/comet/comet:15/AP3A.241105.008/12485168:user/release-keys
+- is_ab: true
+- brand: google
+- branch: comet-user-15-AP3A.241105.008-12485168-release-keys
+- repo: google_comet_dump
